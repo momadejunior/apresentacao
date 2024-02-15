@@ -1,0 +1,59 @@
+body{
+
+    font-family: sans-serif;
+    font-weight: bold;;
+}
+
+
+.text-center{
+    text-align: center;
+}
+
+
+.btn-col{
+    display: grid;
+    grid-template-columns: repeat(2,50%);
+    text-align: center;
+}
+
+
+.xipito{
+
+        
+        background: aqua;
+        height:auto;
+        float: left;
+        padding: 40px;
+}
+
+.acromatica{
+
+    
+    background: orange;
+    height:auto;
+    float: left;
+    padding: 40px;
+}
+
+
+.final-boss{
+    
+    background: rgb(253, 241, 132);
+    height:auto;
+    float: left;
+    padding: 40px;
+}
+
+
+.boca{
+    
+    background: rgb(207, 137, 70);
+    height:auto;
+    float: left;
+    padding: 40px;
+}
+
+a{
+    text-decoration: none;
+    color: #000;
+}
